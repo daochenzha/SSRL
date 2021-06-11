@@ -17,6 +17,8 @@ If you find this repo useful, you may cite:
 ## Installation
 Our implementation is based on OpenAI Gym baselines. Make sure you have **Python 3.5+**. You can set up the dependencies by
 ```
+git clone https://github.com/daochenzha/SSRL.git
+cd SSRL
 pip3 install -e .
 ```
 Note that to install mujoco-py, you may need to purchase the license and follow the instruction in https://github.com/openai/mujoco-py.
